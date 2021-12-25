@@ -1,0 +1,598 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/afs/cs.wisc.edu/u/r/a/rahimullah/reuse
+valu
+Z1 !s110 1635889534
+!i10b 1
+!s100 h?UHojhK=XEW?YFVRdEIT1
+IdNz?F@H<a4?>d9NYGOH4P2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1635743814
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/alu.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/alu.v
+L0 1
+Z3 OP;L;10.7c;67
+r1
+!s85 0
+31
+Z4 !s108 1635889534.000000
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/alu.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vbranch_logic
+R1
+!i10b 1
+!s100 LGHT1N1R>RcN`mzRDSX@G3
+IKDMLa8hjnDHS`NA<hKV2`1
+R2
+R0
+w1635743583
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/branch_logic.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/branch_logic.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/branch_logic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/branch_logic.v|
+!i113 1
+R5
+R6
+vcla16
+R1
+!i10b 1
+!s100 C8cRnYYcFGUDkK21^n23R2
+I=a7C91=G^O=5o6d85Q^Z?3
+R2
+R0
+w1635743696
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/cla16.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/cla16.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/cla16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/cla16.v|
+!i113 1
+R5
+R6
+vcla4
+R1
+!i10b 1
+!s100 5ZB9H2GAWQ4LI9:J[_M^W3
+IcY0zlSci7m?XfBO:?:c8P3
+R2
+R0
+w1635743602
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/cla4.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/cla4.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/cla4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/cla4.v|
+!i113 1
+R5
+R6
+vclkrst
+Z7 !s110 1635889533
+!i10b 1
+!s100 ZzzHl;B1mbcM<UZQX`N5V1
+I>POB7mMM>3eN<GMcNTg[=0
+R2
+R0
+w1455742711
+8/afs/cs.wisc.edu/u/r/a/rahimullah/1/project-unpipelined/clkrst.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/1/project-unpipelined/clkrst.v
+L0 12
+R3
+r1
+!s85 0
+31
+Z8 !s108 1635889533.000000
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/1/project-unpipelined/clkrst.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/1/project-unpipelined/clkrst.v|
+!i113 1
+R5
+R6
+vcontrol
+R1
+!i10b 1
+!s100 Xn6H1dJFJI2V_X[@08@;?3
+I>=AMWGe?X0dB12TCScOKa0
+R2
+R0
+w1635743785
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/control.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/control.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/control.v|
+!i113 1
+R5
+R6
+vdecode
+Z9 !s110 1635889535
+!i10b 1
+!s100 cAW=@HFT5EF4N]^jzMV4J3
+IR5Xm2F8C1BKQP5Wz]8Ra]2
+R2
+R0
+w1635743911
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/decode.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/decode.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/decode.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/decode.v|
+!i113 1
+R5
+R6
+vdecode3_8
+R9
+!i10b 1
+!s100 3LQ_SO^O[aO>m:P8SGWS43
+I@X>=7;R0iTACV497oj52k3
+R2
+R0
+w1635743674
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/decode3_8.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/decode3_8.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z10 !s108 1635889535.000000
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/decode3_8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/decode3_8.v|
+!i113 1
+R5
+R6
+vdff
+R7
+!i10b 1
+!s100 YVYPgX10jcD@:7eFEVS1<3
+IGHzJ>?Zl=0?eNKHm8]8401
+R2
+R0
+w1455742704
+8/afs/cs.wisc.edu/u/r/a/rahimullah/1/project-unpipelined/dff.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/1/project-unpipelined/dff.v
+L0 6
+R3
+r1
+!s85 0
+31
+R8
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/1/project-unpipelined/dff.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/1/project-unpipelined/dff.v|
+!i113 1
+R5
+R6
+vexecute
+R9
+!i10b 1
+!s100 HQdX^n;cka2c3>kdTUaRa3
+I7li5LeZa5?X97SaV@_5l22
+R2
+R0
+w1635743558
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/execute.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/execute.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/execute.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/execute.v|
+!i113 1
+R5
+R6
+vfetch
+R9
+!i10b 1
+!s100 VL>W2:eRz6eWDXeG4>a@N1
+IX?mXln^a;fb^[Cl_U1DU]2
+R2
+R0
+w1635743539
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/fetch.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/fetch.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/fetch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/fetch.v|
+!i113 1
+R5
+R6
+vjump_logic
+R9
+!i10b 1
+!s100 U3=JUoz@5fHJaQVKjF5h71
+IkNQ7Pd:UUjE`Y>cn6WzT31
+R2
+R0
+w1635743764
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/jump_logic.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/jump_logic.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/jump_logic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/jump_logic.v|
+!i113 1
+R5
+R6
+vmemory
+R9
+!i10b 1
+!s100 ?2SVm36e_hj6`7:WilM:>3
+ICzGDmMQJGzA5homk0kZVz0
+R2
+R0
+w1635743745
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/memory.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/memory.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/memory.v|
+!i113 1
+R5
+R6
+vmemory2c
+Z11 !s110 1635889537
+!i10b 1
+!s100 mBla:Z3FU]LZ9QoAFNKak1
+IAdbCR_8[Z`Mfdn0LBB91@3
+R2
+R0
+w1455742820
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/memory2c.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/memory2c.v
+L0 35
+R3
+r1
+!s85 0
+31
+Z12 !s108 1635889537.000000
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/memory2c.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/memory2c.v|
+!i113 1
+R5
+R6
+vmux2_1
+R9
+!i10b 1
+!s100 IHkJYD3bV<a>[6nZBYASC1
+INe=4L?DTE=5Mi6IN906aF2
+R2
+R0
+w1635743891
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux2_1.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux2_1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux2_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux2_1.v|
+!i113 1
+R5
+R6
+vmux2_1_16b
+R9
+!i10b 1
+!s100 b8VAMkOWSNmSE2a;Accn^2
+IJl[`ePA::C`2M=hKVoG;e1
+R2
+R0
+w1635743873
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux2_1_16b.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux2_1_16b.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux2_1_16b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux2_1_16b.v|
+!i113 1
+R5
+R6
+vmux4_1
+Z13 !s110 1635889536
+!i10b 1
+!s100 Wm^;S2XY@8[ITkAT]H4nh3
+IXn>3o3l89zU]Ol5dg?nZZ0
+R2
+R0
+w1635743947
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux4_1.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux4_1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux4_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux4_1.v|
+!i113 1
+R5
+R6
+vmux4_1_16b
+R13
+!i10b 1
+!s100 KK<m?PZUEPBh@Z^_5ALDz1
+I[]kVAoL2gD7LD3HJ^Mj?z3
+R2
+R0
+w1635743931
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux4_1_16b.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux4_1_16b.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z14 !s108 1635889536.000000
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux4_1_16b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux4_1_16b.v|
+!i113 1
+R5
+R6
+vmux4_1_3b
+R13
+!i10b 1
+!s100 mM<ZWn`5Gn4;@:_QeCL^13
+IZWollWNE0@fM?JY<m52Z]2
+R2
+R0
+w1635743518
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux4_1_3b.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux4_1_3b.v
+L0 2
+R3
+r1
+!s85 0
+31
+R14
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux4_1_3b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux4_1_3b.v|
+!i113 1
+R5
+R6
+vmux8_1
+R13
+!i10b 1
+!s100 jY0S^EcG2jKXT^o<>C0ao3
+In5G=ELEmAgzaAeidTgKjc0
+R2
+R0
+w1635743495
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux8_1.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux8_1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R14
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux8_1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux8_1.v|
+!i113 1
+R5
+R6
+vmux8_1_16b
+R13
+!i10b 1
+!s100 [3V7U:Akm_J>WTh546B9b3
+I6?Jg>>B_VZgDel4IEo[=73
+R2
+R0
+w1635743477
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux8_1_16b.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux8_1_16b.v
+L0 2
+R3
+r1
+!s85 0
+31
+R14
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux8_1_16b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/mux8_1_16b.v|
+!i113 1
+R5
+R6
+vproc
+R13
+!i10b 1
+!s100 BHRC=GIF1`OCQ>i:M0ah>0
+I8X=i6Ni?f23LdJ>@SAiL62
+R2
+R0
+w1635743857
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/proc.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/proc.v
+L0 5
+R3
+r1
+!s85 0
+31
+R14
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/proc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/proc.v|
+!i113 1
+R5
+R6
+vproc_hier
+R11
+!i10b 1
+!s100 fCQ@9<WUiG_i1e@liDFCK3
+IaX0e3SnenTSID`j=nj:5N3
+R2
+R0
+w1635745882
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/proc_hier.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/proc_hier.v
+L0 6
+R3
+r1
+!s85 0
+31
+R12
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/proc_hier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/proc_hier.v|
+!i113 1
+R5
+R6
+vproc_hier_bench
+R1
+!i10b 1
+!s100 n=5z;klFaRRf=NOPM?la70
+I[7N9VB3o<cb^?NGzQ9C5E3
+R2
+R0
+w1635744678
+8/afs/cs.wisc.edu/u/r/a/rahimullah/1/project-unpipelined/proc_hier_bench.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/1/project-unpipelined/proc_hier_bench.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/1/project-unpipelined/proc_hier_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/1/project-unpipelined/proc_hier_bench.v|
+!i113 1
+R5
+R6
+vreg16b
+R13
+!i10b 1
+!s100 F_<>?2WT?jP90f71NQF]b2
+ID`P?:Y=?<lPVzQM@GZ?2H3
+R2
+R0
+w1635743984
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/reg16b.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/reg16b.v
+L0 2
+R3
+r1
+!s85 0
+31
+R14
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/reg16b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/reg16b.v|
+!i113 1
+R5
+R6
+vrf
+R13
+!i10b 1
+!s100 PDSHcQc2@QZ376g8X2B;;2
+I^`9H8jF@HHREQBXM`@FVf3
+R2
+R0
+w1635743718
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/rf.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/rf.v
+L0 2
+R3
+r1
+!s85 0
+31
+R14
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/rf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/rf.v|
+!i113 1
+R5
+R6
+vshifter
+R13
+!i10b 1
+!s100 kf9cdcf^8SL509J5TE9N]0
+Io`WLSX>AmWQbF5eRn5@D`2
+R2
+R0
+w1635743623
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/shifter.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/shifter.v
+L0 2
+R3
+r1
+!s85 0
+31
+R14
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/shifter.v|
+!i113 1
+R5
+R6
+vwrite_back
+R11
+!i10b 1
+!s100 ?^VmS5Nic=KhW1onmV_d[1
+IYzQog7kS[NK[B<@>_Y8Y]0
+R2
+R0
+w1635743834
+8/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/write_back.v
+F/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/write_back.v
+L0 2
+R3
+r1
+!s85 0
+31
+R12
+!s107 /afs/cs.wisc.edu/u/r/a/rahimullah/reuse/write_back.v|
+!s90 -reportprogress|300|-work|work|-stats=none|/afs/cs.wisc.edu/u/r/a/rahimullah/reuse/write_back.v|
+!i113 1
+R5
+R6

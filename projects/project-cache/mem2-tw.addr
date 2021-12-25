@@ -1,0 +1,5 @@
+1 0 348 24
+1 0 340 16
+0 1 340 0 
+// This is meant to test set mapping and replacement in direct mapped cache as 348 and 340 will be mapped to the same set. 
+// There should be only 1 hit. 

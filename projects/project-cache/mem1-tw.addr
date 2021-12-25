@@ -1,0 +1,5 @@
+1 0 348 24
+1 0 348 16
+0 1 348 0
+// This is to test if we can read out the right value if writes to the same place multiple times. 
+// Also, we should get 2 hits. 

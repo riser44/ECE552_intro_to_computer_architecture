@@ -1,0 +1,14 @@
+wsrun.pl -list simple.list proc_hier_bench *.v
+mv summary.log simple.summary.log
+wsrun.pl -list complex.list proc_hier_bench *.v
+mv summary.log complex.summary.log
+wsrun.pl -list rand_simple.list proc_hier_bench *.v
+mv summary.log rand_simple.summary.log
+wsrun.pl -list rand_complex.list proc_hier_bench *.v
+mv summary.log rand_complex.summary.log
+wsrun.pl -list rand_ctrl.list proc_hier_bench *.v
+mv summary.log rand_ctrl.summary.log
+wsrun.pl -list rand_mem.list proc_hier_bench *.v
+mv summary.log rand_mem.summary.log
+vcheck-all.sh
+name-convention-check

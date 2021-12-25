@@ -1,0 +1,5 @@
+1 0 348 24
+1 0 344 16
+0 1 344 0
+// This is to test the offset mapping works correctly. 
+// There should be 2 hits. 

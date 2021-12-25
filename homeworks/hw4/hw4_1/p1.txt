@@ -1,0 +1,30 @@
+addi r1, r0, 1
+addi r2, r1, 2
+xor r3, r2, r1
+
+There are three instructions which are to be executed in p1.asm file. Let's analyse what kind of issues we face while executing these three instructions in a five stage pipeline without forwarding.
+
+
+No.  |	Instructions	|	1	2	3	4	5	6	7	8	9	10	11		<= clock cycles
+------------------------------------------------------------------------------------------------------------------
+1    |	addi r1, r0, 1	|	IF	ID	EX	MEM	WB						
+2    |	addi r2, r1, 2	|		IF	ID	STALL	STALL	EX	MEM	WB			
+3    |	xor r3, r2, r1	|			IF	STALL	STALL	ID	STALL	STALL	EX	MEM	WB
+
+As seen in the above pipelined execution, there are stalls in the pipeline while executing the second and the third instructions. 
+	- In the second instruction execution, without any forwarding logic in the hardware, register r1's value (in the first instruction) has not been updated until the WB stage. So, the second instruction  stays in the ID stage until it gets the updated value of register r1, which is achieved in the 5th clock cycle and the pipeline had to undergo two stalls.
+
+	- In the third instruction execution, we can see, there will be a total of four number of stalls without forwarding. 
+
+
+FORWARDING: Data forwarding is an optimization in pipelined CPUs to limit performance deficits which occur due to pipeline stalls. Considering the above three instructions, we can forward the register r1 and r2 values from their corresponding EX stage output to the next EX stage input by the use of a MUX with a suitable forwarding control signal from the control unit. Thus we can use the pipeline effectively without stalls in the above example.
+
+With forwarding logic implemented, we can have the following in the pipeline:
+
+No.  |	Instructions	|	1	2	3	4	5	6	7	8	9	10	11		<= clock cycles
+------------------------------------------------------------------------------------------------------------------
+1    |	addi r1, r0, 1	|	IF	ID	EX	MEM	WB						
+2    |	addi r2, r1, 2	|		IF	ID	EX	MEM	WB			
+3    |	xor r3, r2, r1	|			IF	ID	EX	MEM	WB
+
+Thus, the conclusion is FORWARDING improves the CPI and throughput in the five-stage pipelined processor.

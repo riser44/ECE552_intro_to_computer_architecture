@@ -1,0 +1,5 @@
+1 0 348 24
+1 0 2396 16
+0 1 348 0 
+// This is to test write back and allocate from memory when reading on miss. 
+// There should be no hit. 
